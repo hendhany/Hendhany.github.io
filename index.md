@@ -16,7 +16,10 @@ Advisor info goes here.Abdussalam Alawini is a Teaching Assistant Professor in t
 
 ## About My Project
 
-Project description goes here.
+Teaching Database with TriQL. 
+
+"This project introduces TriQL, a system for helping novices learn the structures (schema) and query languages of three major database systems, including MySQL (a relational, SQL-Structured Query Language, database), Neo4J (a graph database), and MongoDB (a document/collection-oriented database). As part of this project, the student will be working on designing, developing and a conducting a user study to evaluate the learning effectiveness of TriQL. The first stage of this user study involves designing and delivering two database labs that use TriQL as part of the Summer 2022 offering of the Database Systems course (CS 411). In the second stage, we will conduct user interviews to quantitatively evaluate TriQL's learning outcomes and user experience."
+
 
 [My Final Report](files/finalreport.pdf)
 
